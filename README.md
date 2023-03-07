@@ -60,3 +60,6 @@ It is now time to create Agents. Agents are the employees of the helpdesk that a
 <img src="https://i.imgur.com/iYi1jO4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 After creating some agents we will create users. Users are customers that create tickets when they are having issues. A user is identified with their E-mail address. To create a user follow this path Agent Panel->Users->User Directory->Add new. 
+
+
+<img src="https://i.imgur.com/Z8IHtEm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
