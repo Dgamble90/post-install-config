@@ -63,3 +63,9 @@ After creating some agents we will create users. Users are customers that create
 
 
 <img src="https://i.imgur.com/Z8IHtEm.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+SLAs Plans provide a length of time in which the help desk is expected to take in order to solve a specific ticket. SLA Plans are created by going to Admin Panel->Manage->SLA Plans. Each SLA has a schedule and within that schedule there is a grace period. In this example SEV-A has a 24/7 and a one hour grace period. 
+
+
+<img src="https://i.imgur.com/GazzxHh.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
