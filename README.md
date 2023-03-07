@@ -52,3 +52,4 @@ After configuring a new department we will set up a new team. Teams allow you to
 Now that we have set up a new team we will create a new setting that will allow anyone to create tickets. Admin Panel->Settings->User Settings.
 </p>
 <br />
+<img src="https://i.imgur.com/4wXGrsu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
