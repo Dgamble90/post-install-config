@@ -53,3 +53,5 @@ Now that we have set up a new team we will create a new setting that will allow 
 </p>
 <br />
 <img src="https://i.imgur.com/4wXGrsu.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+It is now time to create Agents. Agents are the employees of the helpdesk that actually work on solving tickets. Agents are assigned primary departments and given a primary role for tickets sent to their department. Agents can be given access to other departments other than their own, they can also have different roles depending on which department they are in. Permissions, Access, & Teams are be assigned in the Agents tab.
